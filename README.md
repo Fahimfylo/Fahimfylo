@@ -1,6 +1,8 @@
-# 💫 About Me:
 
-Hi there! I'm a Full-Stack Developer passionate about building dynamic and user-friendly web applications. While I have experience in both frontend and backend, my primary focus is on frontend development—creating seamless UI/UX experiences with React, Tailwind CSS, and JavaScript.<br><br>🔹 I love solving complex problems, optimizing performance, and building industry-level projects that make an impact. When I'm not coding, I enjoy exploring AI innovations, future web technologies, and efficient UI/UX design patterns.<br><br>Let's connect and build something awesome! 🚀
+
+Hi there! I'm a Full-Stack Developer passionate about building dynamic and user-friendly web applications
+🔹 I love solving complex problems, optimizing performance, and building industry-level projects that make an impact
+I enjoy exploring AI innovations, future web technologies, and efficient UI/UX design patterns.<br><br>Let's connect and build something awesome! 🚀
 
 ## 🌐 Socials:
 
