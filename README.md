@@ -4,9 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
-
-<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="fahimrahman" /> </p>
 
 - 🌱 I’m currently learning **Backend**
 
@@ -18,8 +16,14 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/rahman-fahim-b61242343" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahim_rahman" height="30" width="40" /></a>
 <a href="https://www.instagram.com/fahim_rahman23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fahim_rahman" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/fahim_rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="fahim_rahman" height="30" width="40" /></a>
-<a href="https://www.facebook.com/sakib.infinity.5" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Facebook_Logo_2023.png" alt="fahim_rahman" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/fahim_rahman" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="fahim_rahman" height="30" width="40" />
+</a>
+
+<a href="https://www.facebook.com/sakib.infinity.5" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="fahim_rahman" height="30" width="40" />
+</a>
+
 
 
 <h2>🚀 Languages and Tools I Use</h2>
