@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="fahimrahman" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fahimrahman&label=Profile%20views&color=0e75b6&style=flat" alt="fahimrahman" /> </p>
 
 - 🌱 I’m currently learning **Backend**
 - 💬 Ask me about **React, MEARN**
