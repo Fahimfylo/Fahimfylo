@@ -1,4 +1,4 @@
-[![MasterHead](/banner.gif)
+![MasterHead](/banner.gif)
 
 <h1 align="center">Hi 👋, I'm Fahim Rahman</h1>
 <h3 align="center">A passionate FullStack Developer</h3>
