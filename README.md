@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Backend**
 - 💬 Ask me about **React, MEARN**
-- 📫 How to reach me **rahmanfahim1001@gmail.com**
+- 📫 How to reach me **ghostpy91@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
