@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning **Backend**
 - 💬 Ask me about **React, MEARN**
 - 📫 How to reach me **ghostpy91@gmail.com**
+- 🧑‍💻 My portfolio **https://fahim-rahman.vercel.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
