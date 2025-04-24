@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahimrahman&label=Profile%20views&color=0e75b6&style=flat" alt="fahimrahman" /> </p>
 
 - 🌱 I’m currently learning **Backend**
-- 💬 Ask me about **React, MEARN**
+- 💬 Ask me about **React, Javascript**
 - 📫 How to reach me **ghostpy91@gmail.com**
 - 🧑‍💻 My portfolio **https://fahim-rahman.vercel.app/**
 
